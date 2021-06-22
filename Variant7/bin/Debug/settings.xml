@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfResearch xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Research>
+    <customer>
+      <name>Jhon</name>
+      <topic>Du</topic>
+      <price>1000</price>
+    </customer>
+    <date>2021-06-22T00:00:00</date>
+    <list>
+      <Publication>
+        <student>
+          <firstName>Bill</firstName>
+          <lastName>Do</lastName>
+          <startYear>1890</startYear>
+        </student>
+        <dosiagnennya>Tezy_do_Dopovidi</dosiagnennya>
+      </Publication>
+    </list>
+  </Research>
+</ArrayOfResearch>
